@@ -106,7 +106,7 @@ const Banner = () => {
                 {/* Image */}
                 <div data-aos="fade-left" className="flex justify-center overflow-hidden">
                   <Image
-                    src="/coffee/man-holding.png"
+                    src="/coffee/seaside3.png"
                     alt="Coffee Hero"
                     width={300}
                     height={300}
