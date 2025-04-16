@@ -26,7 +26,6 @@ export default function Home() {
       <Banner />
       <Explore />
       <OrderCoffee />
-      <BestSelling />
       <InstantSection />
       <Testimonials />
       <Footer />

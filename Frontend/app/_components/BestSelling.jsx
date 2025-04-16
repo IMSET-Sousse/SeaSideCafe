@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import React from 'react'
-import Button from './Button'
 import Title from './Title'
 import Layout from './Layout'
 

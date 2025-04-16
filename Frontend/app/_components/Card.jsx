@@ -16,9 +16,7 @@ const Card = ({ imgSrc, title, description, buttonLabel }) => {
       <p className="text-center text-sm text-gray-600 px-2">
         {description}
       </p>
-      <button className="mt-2 bg-gray-900 text-white px-6 py-2 rounded-full shadow-md hover:scale-105 hover:shadow-lg transition-all">
-        {buttonLabel}
-      </button>
+
     </div>
   );
 };
