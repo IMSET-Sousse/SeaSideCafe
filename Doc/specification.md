@@ -117,7 +117,6 @@ Le site est une application statique sans base de données, centrée sur la lisi
   - **/page.js** → Page d’accueil  
 
 ### 📦 Livrables  
-- Site fonctionnel déployé sur **Vercel**.  
 - Code source complet (Github).  
 - Documentation du projet (structure, technologies, installation).  
 - README détaillé avec :  
