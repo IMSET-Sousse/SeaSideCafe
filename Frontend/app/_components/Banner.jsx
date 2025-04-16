@@ -42,7 +42,7 @@ const Banner = () => {
                 {/* Image */}
                 <div data-aos="fade-left" className="flex justify-center md:justify-start">
                   <Image
-                    src="/coffee/hero1.png"
+                    src="/coffee/seaside1.png"
                     alt="Coffee Hero"
                     width={400}
                     height={400}
@@ -74,7 +74,7 @@ const Banner = () => {
                 {/* Image */}
                 <div data-aos="fade-left" className="flex justify-center">
                   <Image
-                    src="/coffee/coffee-mid.png"
+                    src="/coffee/seaside2.png"
                     alt="Coffee Hero"
                     width={500}
                     height={500}

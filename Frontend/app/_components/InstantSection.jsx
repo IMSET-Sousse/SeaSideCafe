@@ -40,12 +40,7 @@ const InstantSection = () => {
       </div>
 
       {/* Text Content */}
-      <div data-aos="fade-left" className="flex flex-col md:items-end sm:items-center justify-center p-6 sm:px-4 md:px-16 gap-4 sm:text-center">
-        <h1 className="text-3xl font-bold">Order Your Favourite Coffee</h1>
-        <p className="text-lg text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-        </p>
-      </div>
+  
 
     </div>
   </div>

@@ -7,24 +7,26 @@ const Explore = () => {
   return (
     <Layout>
       <div className='flex flex-col items-center justify-center gap-4'>
-          <Title title="Explore Our Alowishus" desc="A drink from the 'My Alowishus' bottled brews range or grab one of our delecious."/>
+          <Title 
+            title="Explore Our Seaside Cafe" 
+            desc="Discover a taste of the coast with our specialty brews, refreshing drinks, and delicious bites." 
+          />
           <div className='grid sm:grid-cols-1 md:grid-cols-3 gap-8 my-4'>
               <Card 
                   imgSrc="/coffee/icon1.png"
                   title="Our Catering"
-                  description="Try our latest blend today. Have sweet coffee with us. try something different with coffee"
-                 
-                  />
+                  description="Savor our latest blend, crafted for a sweet and smooth seaside coffee experience."
+              />
               <Card 
                   imgSrc="/coffee/icon2.png"
                   title="Our Catering"
-                  description="Try our latest blend today. Have sweet coffee with us.its feels so amazing to see you with our coffee."
-                  />
+                  description="Indulge in rich, aromatic coffee moments that feel like a fresh ocean breeze."
+              />
               <Card 
                   imgSrc="/coffee/icon3.png"
                   title="Our Catering"
-                  description="Try our latest blend today. Have sweet coffee with us. I hope our coffee you gives you wings."
-                  />
+                  description="Let our coffee lift your spirits — a perfect pick-me-up with coastal charm."
+              />
           </div>
       </div>
     </Layout>
