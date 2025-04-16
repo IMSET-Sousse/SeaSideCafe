@@ -1,6 +1,3 @@
-To modify the README for your project, here's a simple specification for a representation website built with Next.js:
-
----
 
 # SEASIDE Café & Restaurant Website
 
@@ -60,7 +57,3 @@ Feel free to fork this repository and contribute to its improvement. Pull reques
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can adapt and expand the sections based on the specifics of your project.
