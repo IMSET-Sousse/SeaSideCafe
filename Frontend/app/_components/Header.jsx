@@ -4,7 +4,6 @@ import { useState } from 'react'
 import {
   Dialog,
   DialogPanel,
- 
   PopoverGroup,
 
 } from '@headlessui/react'
@@ -106,9 +105,6 @@ const  Header = () => {
                 </a>
                 <a data-aos="fade-right" href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
                   Find Us
-                </a>
-                <a data-aos="fade-right" href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
-                  Alowishus Catering
                 </a>
               </div>
             </div>

@@ -32,20 +32,20 @@ const Banner = () => {
                       <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
                         Welcome to <br /> SeaSide Coffee
                       </h1>
-                  
+                   
                     </div>
-
+                 
                     
                   </div>
                 </div>
 
                 {/* Image */}
-                <div data-aos="fade-left" className="flex justify-center md:justify-start">
+                <div data-aos="fade-left" className="flex justify-center">
                   <Image
-                    src="/coffee/seaside1.png"
+                    src="/coffee/seaside2.png"
                     alt="Coffee Hero"
-                    width={400}
-                    height={400}
+                    width={500}
+                    height={500}
                     className="max-w-full h-auto"
                   />
                 </div>
@@ -64,20 +64,20 @@ const Banner = () => {
                       <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold leading-tight">
                         Welcome to <br /> SeaSide Coffee
                       </h1>
-                   
+                  
                     </div>
-                 
+
                     
                   </div>
                 </div>
 
                 {/* Image */}
-                <div data-aos="fade-left" className="flex justify-center">
+                <div data-aos="fade-left" className="flex justify-center md:justify-start">
                   <Image
-                    src="/coffee/seaside2.png"
+                    src="/coffee/seaside1.png"
                     alt="Coffee Hero"
-                    width={500}
-                    height={500}
+                    width={400}
+                    height={400}
                     className="max-w-full h-auto"
                   />
                 </div>

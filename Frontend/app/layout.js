@@ -5,8 +5,7 @@ const jost = Jost({ subsets: ["latin"] });
 
 
 export const metadata = {
-  title: "Coffee shop",
-  description: "built by gauran magar",
+  title: "SEASIDE Café & Restaurant ",
 };
 
 export default function RootLayout({ children }) {

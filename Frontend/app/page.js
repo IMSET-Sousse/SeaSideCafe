@@ -1,7 +1,6 @@
 'use client'
 import { useEffect } from "react";
 import Banner from "./_components/Banner";
-import BestSelling from "./_components/BestSelling";
 import Explore from "./_components/Explore";
 import Footer from "./_components/Footer";
 import Header from "./_components/Header";
