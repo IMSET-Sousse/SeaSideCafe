@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
 import Image from 'next/image';
-import Link from 'next/link'; // Import the Link component from Next.js
+import Link from 'next/link';
 
 const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -36,9 +36,9 @@ const Header = () => {
           <Link href="/Menu" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
             Cafe Menu
           </Link>
-          <a href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
+          <Link href="/AboutUs" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
             About Us
-          </a>
+          </Link>
           <a href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
             Find Us
           </a>
@@ -70,9 +70,9 @@ const Header = () => {
                 <Link href="/Menu" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
                   Cafe Menu
                 </Link>
-                <a href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
+                <Link href="/AboutUs" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
                   About Us
-                </a>
+                </Link>
                 <a href="#" className="text-lg font-light transition-all duration-200 ease-in-out hover:scale-105 text-gray-900">
                   Find Us
                 </a>
